@@ -12,7 +12,7 @@ The awesome looking pcb for this project was fabricated by them.
 Like last time I was satisfied with the quality and the black finish.
 Creating circuit boards can be a tough task, but with such services it's made fast and simple!
 If you have a project that involves pcb prototype, PCBWay offers services, such as pcb production, assembly as well as 3D printing and CNC machining for a small price!
-Check out my full [guide]() at Instructables if you want to build one yourself too.
+Check out my full [guide](https://www.instructables.com/Glowtie-V2-a-Glowing-Bowtie/) at Instructables if you want to build one yourself too.
 
 ***
 # Materials:
