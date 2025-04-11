@@ -1,4 +1,4 @@
-![Cover](https://github.com/KonradWohlfahrt/GlowtieV2/blob/main/images/Cover.jpg)
+![Diffuser](https://github.com/KonradWohlfahrt/GlowtieV2/blob/main/images/GlowtieV2_Diffuser.jpg)
 
 # Glowtie V2
 **Version 2 of my Glowtie adaptation: More glow for less (bow)tie!**
@@ -84,7 +84,7 @@ Press and hold the upper button (Flash) when powering up the programmer until th
 
 ***
 # 3D Printing
-Depending on your application you want to print `Glowtie` or `Glowtie Slot`, both upside down with support enabled. The `Bumper` is optional, but will make it look better and offers protection.
+Depending on your application you want to print `Glowtie` or `Glowtie Slot`, both upside down with support enabled. The `Bumper` is optional but will make it look better and offers protection. The `Diffuser` can only be placed on the bumper and will hide the pcb as well as diffuse the leds. This makes the Glowtie look more elegant! Keep in mind that if you want to access the buttons, print `Diffuser Cutout` and the corresponding button raiser.
 
 ![ButtonCase](https://github.com/KonradWohlfahrt/GlowtieV2/blob/main/images/GlowtieV2_Button.jpg)
 _case for button_
@@ -111,3 +111,4 @@ Button functions:
 - double press B1: start BLE advertising (ble version) / swap to next effect (mic version)
 
 ![Glowtie](https://github.com/KonradWohlfahrt/GlowtieV2/blob/main/images/GlowtieV2.jpg)
+![Cover](https://github.com/KonradWohlfahrt/GlowtieV2/blob/main/images/Cover.jpg)
